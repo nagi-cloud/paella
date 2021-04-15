@@ -1,0 +1,73 @@
+{
+	"metadata": {
+		"duration": 242,
+		"title": "Proyecto ENHANCE"
+	},
+	
+	"streams": [
+		{
+			"sources": {
+				"mp4": [
+					{
+						"src": "https://media.upv.es/resources/politube/videos/3fa5dcf0-9183-11eb-a844-c768ec929eb0/polimedia/presenter-720.mp4",
+						"mimetype": "video/mp4",
+						"res": {
+							"w": "4096",
+							"h": "2046"
+						}
+					}
+					
+				]	
+			},
+			"preview": "https://media.upv.es/resources/politube/videos/3fa5dcf0-9183-11eb-a844-c768ec929eb0/slides/frame.0.jpg",
+			"content":"presenter"
+		}
+	],	
+
+	"frameList": [],
+
+	"captions": [
+		{
+			"lang": "es",
+			"text": "Español (traducción automática)",
+			"format": "vtt",
+			"url": "subs_es.vtt"
+		},
+		{
+			"lang": "en",
+			"text": "Inglés (traducción automática)",
+			"format": "vtt",
+			"url": "subs_en.vtt"
+		},
+		{
+			"lang": "de",
+			"text": "Alemán (traducción automática)",
+			"format": "vtt",
+			"url": "subs_de.vtt"
+		},
+		{
+			"lang": "no",
+			"text": "Noruego (traducción automática)",
+			"format": "vtt",
+			"url": "subs_no.vtt"
+		},
+		{
+			"lang": "it",
+			"text": "Italiano (traducción automática)",
+			"format": "vtt",
+			"url": "subs_it.vtt"
+		},
+		{
+			"lang": "sv",
+			"text": "Sueco (traducción automática)",
+			"format": "vtt",
+			"url": "subs_sv.vtt"
+		},
+		{
+			"lang": "pl",
+			"text": "Polaco (traducción automática)",
+			"format": "vtt",
+			"url": "subs_pl.vtt"
+		}
+	]
+}
